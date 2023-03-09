@@ -28,6 +28,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-neves&show_icons=true&locale=en" alt="code-neves" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-neves&" alt="code-neves" /></p>
