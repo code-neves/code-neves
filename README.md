@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, I'm Renato</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-
+<(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif")>
 
 
 - 🌱 I’m a Unicesumar student of **Systems analysis and development**
