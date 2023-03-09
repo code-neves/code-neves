@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/127349682/223889084-1f9f8a89-632a-4da2-9b50-2b4918d2cfb6.png">
                                                  
 
-<br><br><br><br>
+<br><br><br><br><br>
 - 🌱 I’m a Unicesumar student of **Systems analysis and development**
 
 - 📚 I'm currently studying **C, Digital circuits and JS**
