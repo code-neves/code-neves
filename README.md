@@ -2,11 +2,13 @@
 
 <h1 align="center">Olá 👋, I'm Renato</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/127349682/223889084-1f9f8a89-632a-4da2-9b50-2b4918d2cfb6.png">
-                                                 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/127349682/223894211-60ec8e67-8497-4716-86d9-6e4088c21f7f.png">
+
+         
+                                       
 
 <br><br><br><br><br>
-- 🌱 I’m a Unicesumar student of **Systems analysis and development**
+- 🌱 I’m a Unicesumar student of **Systems Analysis and Development**
 
 - 📚 I'm currently studying **C, Digital circuits and JS**
 
