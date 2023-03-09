@@ -12,7 +12,7 @@
 
 - 📚 I'm currently studying **C, Digital circuits and JS**
 
-- 📝 Take a look in my study rotines. [https://twitter.com/studyneves](https://twitter.com/studyneves)
+- 📝 Where i keep my study rotines. [https://twitter.com/studyneves](https://twitter.com/studyneves)
 
 - 📫 How to reach me **renato.ns.moraes@gmail.com**
 
