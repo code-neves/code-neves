@@ -9,6 +9,7 @@
 
 <br><br><br><br><br>
 <h3 align="left">About me:</h3>
+
 - 🌱 I’m a Unicesumar student of **Systems Analysis and Development**
 
 - 📚 I'm currently studying **C, Digital circuits and JS**
