@@ -12,9 +12,9 @@
 
 - 📚 I'm currently studying **C, Digital circuits and JS**
 
-- 📝 Where i keep my study rotines. [https://twitter.com/studyneves](https://twitter.com/studyneves)
+- 📝 Where i keep my study rotines: [https://twitter.com/studyneves](https://twitter.com/studyneves)
 
-- 📫 How to reach me **renato.ns.moraes@gmail.com**
+- 📫 How to reach me: **renato.ns.moraes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
