@@ -1,7 +1,7 @@
 <img align="left" alt="coding" width="250" src="https://user-images.githubusercontent.com/127349682/223890511-21dc8b59-f4f1-47e1-8f4b-1f3dd971a705.png">
 
 <h1 align="center">Olá 👋, I'm Renato</h1>
-<h3 align="center">A passionate frontend student from Brazil</h3>
+<h3 align="center">A passionate Front-end student from Brazil</h3>
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/127349682/223894211-60ec8e67-8497-4716-86d9-6e4088c21f7f.png">
 
          
