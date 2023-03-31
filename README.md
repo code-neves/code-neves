@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="250" src="https://user-images.githubusercontent.com/127349682/223890511-21dc8b59-f4f1-47e1-8f4b-1f3dd971a705.png">
+
 
 <h1 align="center">Olá 👋, I'm Renato</h1>
 <h3 align="center">A passionate Front-end student from Brazil</h3>
@@ -7,7 +7,6 @@
          
                                        
 
-<br><br><br><br><br>
 <h3 align="left">About me:</h3>
 
 - 🌱 I’m a Unicesumar student of **Systems Analysis and Development**
