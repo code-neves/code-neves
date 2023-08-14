@@ -11,7 +11,7 @@
 
 - 🌱 I’m a Unicesumar student of **Systems Analysis and Development**
 
-- 📚 I'm currently studying **C, Digital circuits and JS**
+- 📚 I'm currently studying **Angular**
 
 - 📝 Where i keep my study rotines: [https://twitter.com/studyneves](https://twitter.com/studyneves)
 
