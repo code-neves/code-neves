@@ -1,32 +1,65 @@
 
 
-<h1 align="center">Olá 👋, I'm Renato</h1>
-<h3 align="center">A passionate Front-end student from Brazil</h3>
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/127349682/223894211-60ec8e67-8497-4716-86d9-6e4088c21f7f.png">
-
-         
-                                       
-
-<h3 align="left">About me:</h3>
-
-- 🌱 I’m a Unicesumar student of **Systems Analysis and Development**
-
-- 📚 I'm currently studying **Angular**
-
-- 📝 Where i keep my study rotines: [https://twitter.com/studyneves](https://twitter.com/studyneves)
-
-- 📫 How to reach me: **renato.ns.moraes@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Olá 👋, I'm Renato</h1>
+<h3 align="left">A passionate Front-end student from Brazil</h3>
+                                            
 <p align="left">
-<a href="https://twitter.com/studyneves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="studyneves" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renato moraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato moraes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/code_neves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="code_neves" height="30" width="40" /></a>
+         
+         
+<a href="https://twitter.com/studyneves">
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/renatomoraesctt/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href=""    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=code-neves&style=for-the-badge"/>
+              
+[![GitHub](https://img.shields.io/github/followers/code-neves?label=follow&style=social)](https://github.com/code-neves/code-neves/)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<h3>About me</h3>
+
+- 🤔 Looking for my first job in Web development.
+- 🎓 I’m a <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a> student of **Systems Analysis and Development**
+- 🌱 Studying **Angular** from the Santander Coders Bootcamp.
 
 
+**My skills**
+
+
+ > ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
+**Tools**
+
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/code-neves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-neves&theme=gradient&show_icons=true" />
+</a>
+
+<h3>Contact Me</h3>
+<p align="left">
+<a href="https://twitter.com/studyneves">
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/renatomoraesctt/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href="mailto:renato.ns.moraes@gmail.com">
+<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+              
 
 
