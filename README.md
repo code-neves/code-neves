@@ -20,7 +20,7 @@
 
 <h3>About me</h3>
 
-- 🤔 Looking for my first job in Web development.
+- 🤔 Looking for my first oportunity in Web development.
 - 🎓 I’m a <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a> student of **Systems Analysis and Development**
 - 🌱 Studying **Angular** from the Santander Coders Bootcamp.
 
