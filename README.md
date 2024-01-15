@@ -7,10 +7,10 @@
          
          
 <a href="https://twitter.com/studyneves">
-    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=F2F2F2"/>
     </a>
     <a href="https://www.linkedin.com/in/renatomoraesctt/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=000000"/>
     </a>
      <a href=""    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     <img src="https://komarev.com/ghpvc/?username=code-neves&style=for-the-badge"/>
