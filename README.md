@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-182F54?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
      <a href=""    <img src="https://img.shields.io/badge/Stack_Overflow-182F54?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-    <img src="https://komarev.com/ghpvc/?username=code-neves&style=for-the-badge&color=274D8A&logoColor=white&logo=white"/></p>
+    <img src="https://komarev.com/ghpvc/?username=code-neves&style=for-the-badge&color=182F54&logoColor=white&logo=white"/></p>
 </p>
 
 <h2>My skills</h2>
